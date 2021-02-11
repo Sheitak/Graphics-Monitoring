@@ -22,7 +22,7 @@
         "build": "encore production --progress"
     },
     "dependencies": {
-        "apexcharts": "^3.19.2",
+        "apexcharts": "^3.24.0",
         "babel-loader": "^8.0.6",
         "file-loader": "^5.0.2",
         "fusioncharts": "^3.15.2"
